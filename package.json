@@ -1,5 +1,5 @@
 {
-	"name": "Eduardo Fernandes",
+	"author": "Eduardo Fernandes",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
